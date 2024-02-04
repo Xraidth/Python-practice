@@ -1,25 +1,24 @@
 # VirtualStore
 
-Welcome to VirtualStore.
+<h1>Welcome to VirtualStore.</h1>
 
-###Goals
-This project emerges as software for stores and as a method for learning Python
+<h3>Goals</h3>
+<p>This project arises as software for stores and as a method to learn Python</p>
 
-### Downloads
+<h3>Downloads</h3>
 
- Beta Version (Unstable)
+<h4>Beta Version (Unstable)</h4>
 
-Download the beta version [VirtualStore.v1.exe](https://github.com/Xraidth/VirtualStore/raw/main/VirtualStore.v1.exe). 
-Please note that this is a beta version and may contain bugs. Your feedback is valuable in helping us improve the application.
+<p>Download the beta version [VirtualStore.v1.exe](https://github.com/Xraidth/VirtualStore/raw/main/VirtualStore.v1.exe). <br></br>
+Please note that this is a beta version and may contain bugs. Your feedback is valuable in helping us improve the application.</p>
 
 
-## Contribution
+<h3>Contribution</h3>
+<p>If you would like to contribute to the development of VirtualStore. I will encanted.</p>
 
-If you would like to contribute to the development of VirtualStore. I will encanted.
 
-## License
-
-This project is licensed under the MIT
+<h3>License</h3>
+<p>This project is licensed under the MIT</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
