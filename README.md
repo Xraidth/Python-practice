@@ -10,7 +10,7 @@
 <h4>Beta Version (Unstable)</h4>
 
 <p>Download the beta version: <a href="https://github.com/Xraidth/VirtualStore/raw/main/VirtualStore.v1.exe">VirtualStore.beta.v1..exe</a>. <br></br>
-Please note that this is a beta version and may contain bugs. Your feedback is valuable in helping me improve the application.</p>
+Please note that this is a beta version and may contain bugs. Your feedback is valuable in helping me to improve the application.</p>
 
 
 <h3>Contribution</h3>
